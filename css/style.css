@@ -312,7 +312,6 @@ p { line-height: 1.9; }
 		padding-left: 15px; 
 		padding-top: 40px;
 	}
-}
 
 @media (max-width: 897px) {
 	.btn {
@@ -394,7 +393,7 @@ p { line-height: 1.9; }
 	}
 
 	.contact-row-related-posts {	margin-top: 40px; }
-}
+
 
 @media (max-width: 543px) {
 	.footer-links-container { padding-left: 0; }
